@@ -1,5 +1,5 @@
 # ShopSmart Retail Analysis: Week 1 (Data Analytics Track)
-
+![Dashboard](shopmart_dashboard.png)
 Name: Safrah Adebola Omisanya
 Programme: AnalystLab Africa Experience Lab
 Mission: 01, Retail Sales Analysis with Microsoft Excel
